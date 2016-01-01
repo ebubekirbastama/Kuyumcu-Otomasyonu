@@ -1,0 +1,10 @@
+Bu program www.youtube.com/yazilimegitim ve www.ebubekirbastama.com siteleri adýna ücretsiz oalrak MÝT lisansý ile daðýtýlmaktadýr.
+Bu source kod Kuyumcu otomasyonu Programýdýr.Geliþtirmek isteyenler için paylaþýlmýþtýr.
+Bu Source Kodu yeni çýkartacaðým C# Kitabý için paylaþmaktayým.
+www.ebubekirbastama.com
+www.facebook.com/ebubekirbastama
+www.github.com/ebubekirbastama
+www.youtube.com/yazilimegitim
+www.twitter.com/ebastama
+www.instagram.com/ebubekirbastama
+www.facebook.com/pintimarket
